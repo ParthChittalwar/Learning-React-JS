@@ -48,7 +48,7 @@ Each folder contains the code, experiments, and exercises completed on that day.
 ## Progress
 
 * [ ] Day 1 – React Setup, JSX, Components
-* [ ] Day 2 - Props , Props Mini Project
+* [ ] Day 2 - Props, Reusable Components, Mini Project
 * [ ] Day 3
 * [ ] Day 4
 * [ ] Day 5
