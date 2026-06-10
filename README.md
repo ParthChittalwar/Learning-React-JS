@@ -64,6 +64,11 @@ Each folder contains the code, experiments, and exercises completed on that day.
 * CSS3
 * Git & GitHub
 
+##Mini Projects Created Journey
+
+* Day 3 - UI Design Project with Tailwind
+* Project link - https://flight-booing-site-git-main-parthchittalwars-projects.vercel.app/
+
 ## Author
 
 Parth Chittalwar
