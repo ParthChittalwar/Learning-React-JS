@@ -49,7 +49,7 @@ Each folder contains the code, experiments, and exercises completed on that day.
 
 * [ ] Day 1 – React Setup, JSX, Components
 * [ ] Day 2 - Props, Reusable Components, Mini Project
-* [ ] Day 3
+* [ ] Day 3 - CSS , Tailwind , UI Design Project
 * [ ] Day 4
 * [ ] Day 5
 * [ ] Day 6 
