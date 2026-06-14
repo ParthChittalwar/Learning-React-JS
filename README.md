@@ -52,8 +52,8 @@ Each folder contains the code, experiments, and exercises completed on that day.
 * [ ] Day 3 - CSS , Tailwind , UI Design Project
 * [ ] Day 4 - Functions , Hooks , Advanced State Management
 * [ ] Day 5 - Form Handling , Two Way Data Binding , Notes App Project
-* [ ] Day 6 
-* [ ] Day 7   
+* [ ] Day 6 - Using LocalStorage , API Calls in React ,useEffect Hook Explained , Gallery Projec
+* [ ] Day 7 -  React Router DOM Basics ,Advanced Routing ,Bonus Concepts ,Context API Introduction ,Children as Props , Context API in Action
 
 ## Tech Stack
 
