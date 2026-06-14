@@ -69,6 +69,9 @@ Each folder contains the code, experiments, and exercises completed on that day.
 * Day 3 - UI Design Project with Tailwind
 * Project link - https://flight-booing-site-git-main-parthchittalwars-projects.vercel.app/
 
+* Day 7 - React Router DOM Mini Project
+* Project Link -  https://course-studio---react-mini-project.pages.dev/
+
 ## Author
 
 Parth Chittalwar
