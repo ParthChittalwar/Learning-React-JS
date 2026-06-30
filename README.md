@@ -72,6 +72,9 @@ Each folder contains the code, experiments, and exercises completed on that day.
 * Day 7 - React Router DOM Mini Project
 * Project Link -  https://course-studio---react-mini-project.pages.dev/
 
+* Car UI Design Project
+* Project Link - https://carcapilot-ui.pages.dev/
+
 * Mega project
 * Link - Soon
 * Repo - Underdevelopment
