@@ -75,10 +75,6 @@ Each folder contains the code, experiments, and exercises completed on that day.
 * Car UI Design Project
 * Project Link - https://carcapilot-ui.pages.dev/
 
-* Mega project
-* Link - Soon
-* Repo - Underdevelopment
-
 ## Author
 
 Parth Chittalwar
